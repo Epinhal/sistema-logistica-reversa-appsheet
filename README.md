@@ -2,18 +2,42 @@
 
 Aplicação corporativa desenvolvida na Coordenadoria de Serviços e Resíduos Sólidos da SEMA-MT para monitoramento, controle de protocolos e governança cadastral de planos de logística reversa.
 
+---
+
 ## 📌 Contexto e Objetivo
 Centralizar a triagem, consulta e auditoria dos planos de logística reversa e entidades gestoras aderentes, substituindo o controle manual disperso e estabelecendo controle de acessos segregados por perfil de usuário.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 - **Plataforma:** Google AppSheet
 - **Base de Dados:** Tabelas relacionais estruturadas (Google Sheets)
 - **Segurança e Regras de Negócio:** Expressões contextuais (`LOOKUP`, `CONTEXT("View")`) para controle de permissões e ações em tela
 
+---
+
 ## ⚙️ Principais Funcionalidades
 - **Gestão de Planos:** Consulta tabular em tela cheia com edição in-place e acompanhamento de metas.
 - **Gerenciamento de Usuários:** Controle de operadores com permissões restritas e exclusão contextual por linha.
 - **Estruturação de Dados:** Relações entre planos protocolados, empresas aderentes e municípios atendidos.
+
+---
+
+## 📸 Interface da Aplicação
+
+### 1. Formulário de Cadastro de Novo Plano
+![Cadastrar Novo Plano](Tela_Cadastrar_Plano.png)
+
+### 2. Consulta Consolidada de Planos
+![Consultar Planos](Tela_Consultar_Plano.png)
+
+### 3. Detalhes do Plano e Edição
+![Detalhes do Plano](Tela_Consultar_Plano_Detalhes.png)
+
+### 4. Módulo de Gestão de Usuários
+![Gerenciar Usuários](Tela_Gerenciar_Usuarios.png)
+
+---
 
 ## 👤 Desenvolvimento
 Eduardo Custódio Pinhal  
