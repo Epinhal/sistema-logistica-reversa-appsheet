@@ -1,6 +1,6 @@
-# Sistema de Gestão de Logística Reversa (Logística Reversa - Demais)
+# Sistema de Logística Reversa - Demais Tipologias
 
-Aplicação corporativa desenvolvida na Coordenadoria de Serviços e Resíduos Sólidos da SEMA-MT para monitoramento, controle de protocolos e governança cadastral de planos de logística reversa.
+Aplicação corporativa desenvolvida na Coordenadoria de Serviços e Resíduos Sólidos da SEMA-MT para monitoramento, controle de protocolos e governança cadastral de planos de logística reversa demais tipologias.
 
 ---
 
